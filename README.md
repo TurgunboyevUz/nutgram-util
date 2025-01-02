@@ -17,6 +17,10 @@ Nutgram/Laravel helper
     }
 }
 ```
+3. run command below:
+```
+composer dump-autoload
+```
 
 # Usage
 If you are using VSCode and PHP Intelephense, it gives you suggestion while you type the method )
